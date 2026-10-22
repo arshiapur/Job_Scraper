@@ -4380,3 +4380,4 @@
 {"job_count": 18, "run_attempt": "1", "run_id": "39670285684", "timestamp": "2026-10-21T20:26:58Z", "workflow": "hiringcafe"}
 {"job_count": 18, "run_attempt": "1", "run_id": "39677508534", "timestamp": "2026-10-21T21:17:42Z", "workflow": "hiringcafe"}
 {"job_count": 4989, "run_attempt": "1", "run_id": "39677623056", "timestamp": "2026-10-21T21:44:25Z", "workflow": "linkedin-backfill-2phase"}
+{"job_count": 147, "run_attempt": "1", "run_id": "39698580855", "timestamp": "2026-10-22T00:23:42Z", "workflow": "indeed"}
