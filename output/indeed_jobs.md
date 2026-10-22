@@ -1,499 +1,326 @@
 # 🟦 Indeed — Early-Career Software & AI Roles
-*Last updated: 2026-10-22 19:37 UTC*
+*Last updated: 2026-10-22 22:55 UTC*
 
-**76 new role(s)** since last run · 155 total in last 24h
+**50 new role(s)** since last run · 149 total in last 24h
 
-### [Software Developer](https://www.indeed.com/viewjob?jk=f92069b7a9a4c729) — Aivanta Tech Inc.
-- 📍 **Location:** Covington, LA, USA
-- 💰 **Salary:** $18–$135/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Full Stack Java Developer](https://www.indeed.com/viewjob?jk=546ccdd6b1a852ee) — CEO FOUNDRY LLC
+### [Software Developer](https://www.indeed.com/viewjob?jk=f0d9e1bd5b6fc8c1) — Solen Software Group
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $80k–$100k/yr
+- 💰 **Salary:** $65k–$110k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-22
-
-### [Java Full Stack Developer](https://www.indeed.com/viewjob?jk=f6b38534252bef2e) — DHANU GLOBAL ENTERPRISES, INC.
-- 📍 **Location:** Omaha, NE, USA
-- 💰 **Salary:** $45–$55/yr
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=c616fa64db9d15b2) — CITY BREWING COMPANY, LLC
-- 📍 **Location:** La Crosse, WI, USA
-- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Systems Software Engineer - Object Storage](https://www.indeed.com/viewjob?jk=aef006bcc0f76aeb) — Quantum US
-- 📍 **Location:** Centennial, CO, USA
-- 💰 **Salary:** $160k–$200k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer I](https://www.indeed.com/viewjob?jk=99e78f2b17ea178d) — Blue Bird Group
-- 📍 **Location:** Rogers, AR, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=e819148da3fc034b) — Reborn Recruiting LLC
+### [Full Stack Developer](https://www.indeed.com/viewjob?jk=d6a1623bfe66beb5) — BOAB Ventures
 - 📍 **Location:** Chantilly, VA, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Robotics Software Engineer - Construction](https://www.indeed.com/viewjob?jk=560d4e1d5342a72b) — HITT Contracting
-- 📍 **Location:** Falls Church, VA, USA
-- 💰 **Salary:** $82k–$150k/yr
+### [Junior Software Developer](https://www.indeed.com/viewjob?jk=13e9301f23f15d83) — Kryptauri
+- 📍 **Location:** Columbia, MD, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Entry level Software Developer](https://www.indeed.com/viewjob?jk=300dd0068d816b55) — Gain America Inc
-- 📍 **Location:** Hicksville, NY, USA
-- 💰 **Salary:** $70k/yr
+### [Frontend Software Engineer](https://www.indeed.com/viewjob?jk=6b7da0d9aa6aca24) — GRVTY
+- 📍 **Location:** San Antonio, TX, USA
+- 💰 **Salary:** $100k–$152k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer - C++](https://www.indeed.com/viewjob?jk=f987672a54d5a816) — turing
+### [Software Engineer - C++](https://www.indeed.com/viewjob?jk=d7834a0aaf79b677) — turing
 - 📍 **Location:** Remote, USA
 - 💰 **Salary:** $200–$300/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** contract
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Software Engineer](https://www.indeed.com/viewjob?jk=4ee1228e7c5d96b3) — RealSelf
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $180k–$210k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Mid Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=9d519b35389db9ce) — E&M Technologies, Inc.
-- 📍 **Location:** Alexandria, VA, USA
-- 💰 **Salary:** $95k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=e8de2ac7bccf6d0b) — GRVTY
-- 📍 **Location:** San Antonio, TX, USA
-- 💰 **Salary:** $103k–$191k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Frontend Software Engineer](https://www.indeed.com/viewjob?jk=c38a90cea81f103e) — GRVTY
+### [Full-Stack Software Engineer](https://www.indeed.com/viewjob?jk=5a32173e40906180) — Kryptauri
 - 📍 **Location:** Columbia, MD, USA
-- 💰 **Salary:** $100k–$152k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Full Stack Developer](https://www.indeed.com/viewjob?jk=9a4db6a4555fb2f1) — Teserac, Inc.
-- 📍 **Location:** Santa Clara, CA, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer III - AIML](https://www.indeed.com/viewjob?jk=e2f2e5556a76b29d) — JPMorganChase
-- 📍 **Location:** McLean, VA, USA
-- 💰 **Salary:** $138k–$185k/yr
+### [Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=0eb39e3ee33b4f9d) — BOAB Ventures
+- 📍 **Location:** Bolling AFB, DC, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Sr. Software Engineer, Enterprise Technology Services](https://www.indeed.com/viewjob?jk=6d773b33d936b487) — Apple
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $185k–$278k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Sr Software Engineer II - Financial Crimes Technology](https://www.indeed.com/viewjob?jk=17ad8b96c58ef0b3) — American Express
-- 📍 **Location:** Charlotte, NC, USA
-- 💰 **Salary:** $123k–$215k/yr
+### [Full Stack AI Engineer](https://www.indeed.com/viewjob?jk=3b5d3c8a7353ed06) — Impyrian
+- 📍 **Location:** Ashburn, VA, USA
+- 💰 **Salary:** $100k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Python & AWS Software Engineer III](https://www.indeed.com/viewjob?jk=d3f53a30372a5471) — JPMorganChase
-- 📍 **Location:** Plano, TX, USA
-- 💰 **Salary:** $138k–$185k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=74e1f94e8211e8d4) — MKS
+- 📍 **Location:** Rochester, NY, USA
+- 💰 **Salary:** $71k–$118k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=a5c51a41a6ee75b2) — Memorial Sloan Kettering Cancer Center
+### [Software Engineer (Mid-Level)](https://www.indeed.com/viewjob?jk=2f463a74d9025996) — Brean Capital, LLC
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $124k–$205k/yr
-- **Work mode:** Remote in-state eligible
+- 💰 **Salary:** $110k–$130k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Sr Software Engineer - ML platform](https://www.indeed.com/viewjob?jk=a61809abf0d0df9f) — Uber
+### [Lead Software Engineer - Java Backend](https://www.indeed.com/viewjob?jk=8f57d8a9783f900b) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $157k–$215k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=7975977c8c419f3a) — Uber
 - 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $202k–$224k/yr
+- 💰 **Salary:** $171k–$190k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer, Agentic](https://www.indeed.com/viewjob?jk=f3b2fc20b7810bbd) — Uber
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $171k–$190k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=747b59bc87557f83) — First Order Effects
-- 📍 **Location:** Austin, TX, USA
-- 💰 **Salary:** $140k–$200k/yr
+### [Junior Software Engineer](https://www.indeed.com/viewjob?jk=6f4a63d9d67bf3b7) — Tectutor Incorporation
+- 📍 **Location:** Oxford, FL, USA
+- 💰 **Salary:** $75k–$120k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Systems Software Engineer - Object Storage](https://www.indeed.com/viewjob?jk=5fb729cb6636809e) — Quantum US
-- 📍 **Location:** Centennial, CO, USA
-- 💰 **Salary:** $100k–$120k/yr
-- **Work mode:** On-site
+### [Software Engineer - Teleoperation Systems](https://www.indeed.com/viewjob?jk=6933b445b8dd4ed0) — ALTEN
+- 📍 **Location:** North Reading, MA, USA
+- 💰 **Salary:** $110k–$150k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-22
 
-### [Remote Sensing Software Engineer](https://www.indeed.com/viewjob?jk=291393264ad8067d) — Shiny Technologies Incorporated
-- 📍 **Location:** Wright-Patterson AFB, OH, USA
-- 💰 **Salary:** $140k–$180k/yr
+### [Junior Software Engineer – Robotics & Autonomous Systems](https://www.indeed.com/viewjob?jk=93da3c3f0adef62f) — Marcurius
+- 📍 **Location:** Clearwater, FL, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer Level 3](https://www.indeed.com/viewjob?jk=480dd41aa189c179) — Chiron Technology Services, Inc
-- 📍 **Location:** Annapolis Junction, MD, USA
-- 💰 **Salary:** $191k–$201k/yr
+### [Software Engineer (202610)](https://www.indeed.com/viewjob?jk=77ebbaa7c09219a7) — Purvis Systems
+- 📍 **Location:** Newport, RI, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Cloud Software Developer 3](https://www.indeed.com/viewjob?jk=0f85ececbd74a6c8) — Lentech Inc.
-- 📍 **Location:** Annapolis Junction, MD, USA
-- 💰 **Salary:** $216k–$230k/yr
+### [Lead Software Engineer](https://www.indeed.com/viewjob?jk=b4747a4c56ee2c42) — 10 Fitness
+- 📍 **Location:** Maumelle, AR, USA
+- 💰 **Salary:** $115k–$145k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
 
-### [Mid level Agentic AI Engineer](https://www.indeed.com/viewjob?jk=c707dddcc5e1f806) — Trillion Technology Solutions
-- 📍 **Location:** Reston, VA, USA
-- 💰 **Salary:** $120k–$145k/yr
+### [Software Engineer - AI Systems (Go)](https://www.indeed.com/viewjob?jk=003dfe25d03a1611) — Stanbridge University
+- 📍 **Location:** Irvine, CA, USA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Data & AI Engineer](https://www.indeed.com/viewjob?jk=b7cbb124749e0e2f) — THIRD
+### [Software Engineer - Embedded Development](https://www.indeed.com/viewjob?jk=00f5db6e93a018ed) — Aerotech Inc.
+- 📍 **Location:** Pittsburgh, PA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=1f2a32c091c3a8a5) — Strategic Insurance Group
+- 📍 **Location:** Houston, TX, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=3dc3b342b6fa711e) — Sem-Sol
+- 📍 **Location:** Albuquerque, NM, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer I](https://www.indeed.com/viewjob?jk=43caf3bc4f64b0e9) — Chewy
+- 📍 **Location:** Plantation, FL, USA
+- 💰 **Salary:** $92k–$160k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=804a44e6d411f762) — Yext
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $112k–$229k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer (ServiceNow)](https://www.indeed.com/viewjob?jk=5574a4f91ff21a1a) — Applied Network Solutions Inc.
+- 📍 **Location:** Chantilly, VA, USA
+- 💰 **Salary:** $100k–$200k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=b7f5542633f81c5e) — Vanguard Defense Solutions, Inc.
+- 📍 **Location:** Huntsville, AL, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Forward Deployed AI Engineer](https://www.indeed.com/viewjob?jk=041713c3e6d960e0) — Talkdesk
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $140k–$170k/yr
+- 💰 **Salary:** $180k–$225k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [VP of AI Engineering](https://www.indeed.com/viewjob?jk=7657cc83a0fee428) — Baker Tilly Canada
-- 📍 **Location:** Santa Clara, CA, USA
+### [VP of AI Engineering](https://www.indeed.com/viewjob?jk=b41fd38de6c7af00) — Baker Tilly Canada
+- 📍 **Location:** Walnut Creek, CA, USA
 - 💰 **Salary:** $250k–$400k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [AI Researcher / Machine Learning Engineer](https://www.indeed.com/viewjob?jk=47d3ad74ba1e381b) — Vivo HealthStaff
-- 📍 **Location:** San Juan, PR, USA
-- 💰 **Salary:** $175k–$300k/yr
+### [Software Engineer, ML (Time Series Forecasting)](https://www.indeed.com/viewjob?jk=0c83b3fe153dba05) — Northcloud
+- 📍 **Location:** Brooklyn, NY, USA
+- 💰 **Salary:** $192k–$257k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer Level 1 AI Integration](https://www.indeed.com/viewjob?jk=474e4e25ecd759b1) — Kryptauri
-- 📍 **Location:** Columbia, MD, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [AI/ML Engineer - Space Programs](https://www.indeed.com/viewjob?jk=f6d6b4b879f51c97) — BOAB Ventures
-- 📍 **Location:** Chantilly, VA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer AI Tools Level 1](https://www.indeed.com/viewjob?jk=6fa1612cddc03783) — Kryptauri
-- 📍 **Location:** Columbia, MD, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer AI Model Services - Level 1](https://www.indeed.com/viewjob?jk=25950428466821e7) — Kryptauri
-- 📍 **Location:** Columbia, MD, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer Level 1 AI Cloud Platform](https://www.indeed.com/viewjob?jk=30fdaa03a1ba1786) — Kryptauri
-- 📍 **Location:** Columbia, MD, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [VP of AI Engineering](https://www.indeed.com/viewjob?jk=aecc483c9ed2e8ca) — Baker Tilly Canada
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $250k–$400k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer – Lakehouse Analytics](https://www.indeed.com/viewjob?jk=9d34ca6163689f91) — Silverthorne Advisory Group, LLC.
-- 📍 **Location:** Washington, DC, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Forward Deployed Full Stack Engineer](https://www.indeed.com/viewjob?jk=b5db458cf0b4eb77) — BOAB Ventures
-- 📍 **Location:** Keyport, WA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Mid Data Scientist (TS/SCI Clearance)](https://www.indeed.com/viewjob?jk=c9b20fa6ffb67d5d) — EpochGeo
-- 📍 **Location:** Reston, VA, USA
-- 💰 **Salary:** $120k–$150k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Intelligent Automation Engineer - Team Lead | 10+ | Shiloh IL](https://www.indeed.com/viewjob?jk=4238900864f4293c) — Silverthorne Advisory Group, LLC.
-- 📍 **Location:** Shiloh, IL, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Founding Machine Learning Engineer](https://www.indeed.com/viewjob?jk=8df53adf4115fedc) — Onescreen
-- 📍 **Location:** Boston, MA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Divisional Data Software Engineer III](https://www.indeed.com/viewjob?jk=879fe6c62aca2353) — Alliant Insurance Services
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $180k–$200k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer (Fulltime) (Remote)](https://www.indeed.com/viewjob?jk=4e6b368fdb70148d) — RelMap Software
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $125k–$140k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer (Fulltime) (Remote)](https://www.indeed.com/viewjob?jk=5a523979c9e99106) — RelMap Consulting
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $125k–$140k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=ab4a88206bd38152) — ROYAL ELECTRIC
-- 📍 **Location:** Dallas, TX, USA
-- 💰 **Salary:** $92k–$119k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data & Software Engineer](https://www.indeed.com/viewjob?jk=f72aaeeb4a8d04e9) — Hoplite Solutions LLC
-- 📍 **Location:** McLean, VA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=4ccec9e53fc791bd) — Reborn Recruiting LLC
-- 📍 **Location:** Chantilly, VA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Forward Deployed Data Engineer](https://www.indeed.com/viewjob?jk=31107a41aa78cae2) — BOAB Ventures
-- 📍 **Location:** Manassas, VA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer | 3+ yrs | Shiloh IL](https://www.indeed.com/viewjob?jk=2a8843b2eb53a88c) — Silverthorne Advisory Group, LLC.
-- 📍 **Location:** Shiloh, IL, USA
-- 💰 **Salary:** $65k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer | Entry Position | Shiloh IL](https://www.indeed.com/viewjob?jk=e08d58c2801a79e5) — Silverthorne Advisory Group, LLC.
-- 📍 **Location:** Shiloh, IL, USA
-- 💰 **Salary:** $45k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=1e9089092af7c44c) — Eagle Brook Church
-- 📍 **Location:** Centerville, MN, USA
-- 💰 **Salary:** $75k–$78k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer - Cloud and Data](https://www.indeed.com/viewjob?jk=2c15c1fcfb02a3c4) — BOAB Ventures
-- 📍 **Location:** McLean, VA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Enterprise Data Engineer](https://www.indeed.com/viewjob?jk=a682c07c109d4b6c) — Hoplite Solutions LLC
-- 📍 **Location:** Herndon, VA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer- Aviation Data Analytics](https://www.indeed.com/viewjob?jk=5d17c894f186c6c9) — The Evolvers Group
-- 📍 **Location:** Remote, USA
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=f1836a8edb8c020e) — Wipro
-- 📍 **Location:** Redmond, WA, USA
-- 💰 **Salary:** $60k–$140k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Engineer - TS/SCI w/poly](https://www.indeed.com/viewjob?jk=3c023fb421e4dab2) — General Dynamics Information Technology
-- 📍 **Location:** College Park, MD, USA
-- 💰 **Salary:** $162k–$219k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Platform Engineer](https://www.indeed.com/viewjob?jk=234a3ff7c42bb7b2) — nou Systems, Inc.
-- 📍 **Location:** Colorado Springs, CO, USA
-- 💰 **Salary:** $155k–$205k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [AI/ML Engineer Remote Nationwide or Office-Based in MN/DC/NJ](https://www.indeed.com/viewjob?jk=ecc4a9e09069e538) — Optum
-- 📍 **Location:** Minnetonka, MN, USA
-- 💰 **Salary:** $98k–$176k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Java Developer](https://www.indeed.com/viewjob?jk=ee6ca64b52fcad7b) — EAPPS TECH LLC dba Magicforce
-- 📍 **Location:** Plano, TX, USA
-- 💰 **Salary:** $60–$70/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Full-stack Python and React Software Engineer III](https://www.indeed.com/viewjob?jk=f5249eb4e9c2f4b3) — JPMorganChase
-- 📍 **Location:** Plano, TX, USA
-- 💰 **Salary:** $138k–$185k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer III - iOS Developer](https://www.indeed.com/viewjob?jk=ea07b9d5806a6571) — JPMorganChase
+### [Software Engineer III - ML Pipelines(Python, Pyspark , AWS)](https://www.indeed.com/viewjob?jk=41256324337aedaf) — JPMorganChase
 - 📍 **Location:** Plano, TX, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Full Stack Developer – Angular & Mobile](https://www.indeed.com/viewjob?jk=45204b8a3c5fd0c4) — Fidelity Investments
-- 📍 **Location:** Westlake, TX, USA
+### [Software Engineer, AI/ML Ops, Geo](https://www.indeed.com/viewjob?jk=cb7bdeab929a4062) — Google
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Kafka Platform Engineer](https://www.indeed.com/viewjob?jk=82cdfe1219e4532b) — Wipro
-- 📍 **Location:** Irving, TX, USA
-- 💰 **Salary:** $60k–$135k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Sr Infrastructure Engineer](https://www.indeed.com/viewjob?jk=fd8fef2d759ef651) — Vega
-- 📍 **Location:** Dallas, TX, USA
-- 💰 **Salary:** $165k–$200k/yr
+### [Software Development Engineer](https://www.indeed.com/viewjob?jk=a6cbf31166cde64d) — MANTECH
+- 📍 **Location:** Cape Canaveral, FL, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Annotation Data Engineer](https://www.indeed.com/viewjob?jk=f89b7256b9d62cc6) — Realign
+### [Annotation Data Engineer](https://www.indeed.com/viewjob?jk=7ced59e191eb8588) — Realign
 - 📍 **Location:** Dallas, TX, USA
 - 💰 **Salary:** $80k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Engineer Stf](https://www.indeed.com/viewjob?jk=a6f535e02233a185) — Lockheed Martin
-- 📍 **Location:** Fort Worth, TX, USA
-- 💰 **Salary:** $105k–$195k/yr
+### [Software Engineer - Simulation - Hybrid - Relocation Assistance Available](https://www.indeed.com/viewjob?jk=5f51ae1835168897) — Insitu
+- 📍 **Location:** Bingen, WA, USA
+- 💰 **Salary:** $102k–$141k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer, Systems Machine Learning](https://www.indeed.com/viewjob?jk=1720bc4f45803ca1) — Meta
-- 📍 **Location:** Austin, TX, USA
+### [Data Scientist](https://www.indeed.com/viewjob?jk=be2819f9601f133b) — Northcloud
+- 📍 **Location:** Brooklyn, NY, USA
+- 💰 **Salary:** $178k–$220k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Software Engineer, Systems Machine Learning](https://www.indeed.com/viewjob?jk=effb2a8510db96df) — Meta
+- 📍 **Location:** Redmond, WA, USA
 - 💰 **Salary:** $122k–$181k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer, IS&T Early Career Opportunities](https://www.indeed.com/viewjob?jk=41b09a4cabed6c6e) — Apple
+### [Research Engineer](https://www.indeed.com/viewjob?jk=629b7de2dc09ff86) — Outset
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $200k–$240k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.indeed.com/viewjob?jk=c5884c6f01c3d70a) — GREATER ORLANDO AVIATION AUTH
+- 📍 **Location:** Orlando, FL, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer II- Salesforce](https://www.indeed.com/viewjob?jk=ebaab9d4b1b24fdd) — Frost
+- 📍 **Location:** San Antonio, TX, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer , PXT EXR-Ops Tech](https://www.indeed.com/viewjob?jk=9e415bf3d71c8929) — Amazon.com
+- 📍 **Location:** Bellevue, WA, USA
+- 💰 **Salary:** $101k–$160k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Sr. Data Engineer](https://www.indeed.com/viewjob?jk=4d1de6b004f210ca) — Blu Omega LLC
+- 📍 **Location:** Suffolk, VA, USA
+- 💰 **Salary:** $110k–$150k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Engineer](https://www.indeed.com/viewjob?jk=2c5678921820f31f) — LTM Limited
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $60–$65/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22
+
+### [Full Stack Software Engineer, AVP](https://www.indeed.com/viewjob?jk=00ff42387825b26b) — MUFG
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $100k–$171k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Wireless and Edge AI/ML Engineer](https://www.indeed.com/viewjob?jk=d9ed8ab33205697f) — Booz Allen Hamilton
+- 📍 **Location:** Annapolis Junction, MD, USA
+- 💰 **Salary:** $99k–$225k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [Infrastructure Engineer III - SRE](https://www.indeed.com/viewjob?jk=592fef0a7d2aba95) — JPMorganChase
+- 📍 **Location:** Plano, TX, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
+
+### [DSML Engineer – Generative AI](https://www.indeed.com/viewjob?jk=a66ff0443cb38a2d) — LTM Limited
+- 📍 **Location:** Plano, TX, USA
+- 💰 **Salary:** $100k–$130k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22
+
+### [Associate Software Engineer](https://www.indeed.com/viewjob?jk=9bd30552389a202f) — CDK Global
 - 📍 **Location:** Austin, TX, USA
+- 💰 **Salary:** $85k–$95k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=1115dc4f031050c5) — Emerson
-- 📍 **Location:** Austin, TX, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Development Engineer](https://www.indeed.com/viewjob?jk=2dc622ab102ac406) — CVS Health
+### [Full Stack Developer](https://www.indeed.com/viewjob?jk=94e8ddb316e22834) — Marsoft
 - 📍 **Location:** Boston, MA, USA
-- 💰 **Salary:** $65k–$173k/yr
+- 💰 **Salary:** $150k–$180k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer 2](https://www.indeed.com/viewjob?jk=f1ce5b17c2f8eece) — Dell Technologies
-- 📍 **Location:** Hopkinton, MA, USA
-- 💰 **Salary:** $122k–$158k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=158aa4709cea61df) — Gems Setra
-- 📍 **Location:** Boxborough, MA, USA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer I](https://www.indeed.com/viewjob?jk=56b3b32ab9f0c6c4) — Chewy
-- 📍 **Location:** Boston, MA, USA
-- 💰 **Salary:** $92k–$160k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Software Engineer in Test, Embedded Firmware](https://www.indeed.com/viewjob?jk=61912526d921b9a1) — Cambridge Mobile Telematics
+### [Flight Software Engineer](https://www.indeed.com/viewjob?jk=6f482712954bf83a) — Draper
 - 📍 **Location:** Cambridge, MA, USA
-- 💰 **Salary:** $86k–$107k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Engineer, Robotics, DeepMind](https://www.indeed.com/viewjob?jk=7d635c8280e75728) — DeepMind
-- 📍 **Location:** Cambridge, MA, USA
-- 💰 **Salary:** $147k–$210k/yr
+- 💰 **Salary:** $62k–$245k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Scientist - Forecasting](https://www.indeed.com/viewjob?jk=365107a99ec8525a) — New Balance
-- 📍 **Location:** Brighton, MA, USA
-- 💰 **Salary:** $82k–$130k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=479eb931d4607106) — Aquila Technology
+- 📍 **Location:** Lexington, MA, USA
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
